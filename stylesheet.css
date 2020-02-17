@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cracked Code';
+    src: url('CrackedCode.eot');
+    src: url('CrackedCode.eot?#iefix') format('embedded-opentype'),
+        url('CrackedCode.woff2') format('woff2'),
+        url('CrackedCode.woff') format('woff'),
+        url('CrackedCode.ttf') format('truetype'),
+        url('CrackedCode.svg#CrackedCode') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
